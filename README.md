@@ -1,6 +1,6 @@
 # Title
 
-_Insert information about paper, companion websites_
+> Insert information about paper, companion websites
 
 ## Installation
 
@@ -24,4 +24,4 @@ _Insert information about paper, companion websites_
 - [ ] How to run inference with checkpoints
 - [ ] Notebook with metrics
 
-_Insert ready-to-use citation_
+> Insert ready-to-use citation
