@@ -24,4 +24,6 @@
 - [ ] How to run inference with checkpoints
 - [ ] Notebook with metrics
 
+## How to get in touch?
+
 > Insert ready-to-use citation
